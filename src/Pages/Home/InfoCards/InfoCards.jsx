@@ -18,7 +18,7 @@ const InfoCards = () => {
       name: "Address",
       disc: "Dhaka, Bangladesh",
       icon: marker,
-      bgClass: "bg-accent",
+      bgClass: "bg-secondary",
     },
     {
       id: 3,
